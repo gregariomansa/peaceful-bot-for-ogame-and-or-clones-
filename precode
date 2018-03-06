@@ -1,3 +1,21 @@
-# 1 - CONNECT TO THE SERVER
-# I include a python 2 script that does this, though I have not been able to make it work yet. It is from a mine building bot for ogame,
-# deuxbot/ogame-bot. The name of the file is login.py
+1 - CONNECT TO THE SERVER
+
+The user is prompted with a web page, asking for a user name and a password. This can be a .html file, a .php file, or any other
+type.
+
+I include a python 2 script that does this, though I have not been able to make it work yet. It is from a mine building bot for
+ogame, deuxbot/ogame-bot. The name of the file is login.py.
+
+There are many other possibilities, including ilinks (text only browser for linux), and different linux commands like curl,
+wget or ssh.
+
+2 - COLLECT DATA
+
+There are no APIs available for these games. The most general solution for this would be to develop this API. This could, in fact,
+be a project on it's own.
+
+This does not seem to be necessary, though. The data could be scraped in many ways. There are a lot of packages available, and a lot
+of scripts in different languages, like python and php. Only the required pieces of information could be gathered, which would be 
+a minor percentage of the total information received by the player. The required individual data will show up in the following steps
+of the bot.
+
