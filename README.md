@@ -1,5 +1,5 @@
 # peaceful-bot-for-ogame-and-or-clones-
-An idea for peaceful development of an empire, planet by planet
+An idea for peaceful development of an empire, planet by planet.
 
 I am convinced I know what the bot has to do. I am absolutely sure I am not able to code it, yet.
 
